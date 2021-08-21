@@ -6,6 +6,8 @@ public class Test1 {
 
 		System.out.print("hello");
 		sfsd;
+		fsdfas;
+		dsfsdffsdf;
 	}
 
 }
